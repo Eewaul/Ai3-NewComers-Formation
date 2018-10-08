@@ -1,4 +1,4 @@
-# [Ai3 Logo](https://blog.ai3.fr/wp-content/themes/blog_ai3/images/xai3-rouge.png.pagespeed.ic.zcQpdtKV3W.webp) Projet d'auto-formation
+# [Ai3 Logo](images/ai3.png) Projet d'auto-formation
 ## Pré-requis à installer
 ---
 - NodeJS
