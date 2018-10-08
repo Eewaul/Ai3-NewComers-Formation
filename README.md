@@ -47,7 +47,13 @@ Récupérer Visual Studio 2017 Professional sur le <a href="https://visualstudio
 
 ![VS 2017 website screenshot](images/installs/vs2017.jpg)
 
-*Suivre le wizard d'installation en utilisant les valeurs par défault.*
+Suivre le wizard d'installation en utilisant les valeurs par défault.
+
+Lorsqu'il vous sera proposé de choisir différents types de workload, sélectionner au moins les 2 suivantes:
+- ASP.NET and web development
+- Azure development
+
+![vs2017-workloads](images/installs/vs2017-workloads.jpg)
 
 ### Azure CLI (command line tool)
 ------------------------------------
@@ -62,4 +68,4 @@ Après avoir bien installé NodeJS, vous pouvez suivre la procédure suivante af
 ``` bash
 npm install -g @angular/cli@latest
 ```
-Angular Cli est maintenant installé "globalement" sur votre machine dans sa dernière version disponible.
+2. Angular Cli est maintenant installé "globalement" sur votre machine dans sa dernière version disponible.
