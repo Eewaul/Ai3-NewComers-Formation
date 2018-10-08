@@ -21,6 +21,7 @@ Récupérer NodeJS sur le [site officiel de NodeNodeJS](https://nodejs.org/en/do
 *Suivre le wizard d'installation en utilisant les valeurs par défault.*
 
 ### Visual Studio Code (VS Code)
+================================
 Récupérer VS Code sur le [site officiel de VS Code](https://code.visualstudio.com/download)
 
 ![VS Code website screenshot](images/installs/vscode.jpg)
@@ -28,8 +29,12 @@ Récupérer VS Code sur le [site officiel de VS Code](https://code.visualstudio.
 *Suivre le wizard d'installation en utilisant les valeurs par défault.*
 
 ### Visual Studio 2017 Professional
+===================================
 Récupérer Visual Studio 2017 Professional sur le [site officiel de Microsoft](https://visualstudio.microsoft.com/fr/vs/)
 
 ![VS 2017 website screenshot](images/installs/vs2017.jpg)
 
 *Suivre le wizard d'installation en utilisant les valeurs par défault.*
+
+### Azure CLI (command line tool)
+=================================
