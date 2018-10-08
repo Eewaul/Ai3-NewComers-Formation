@@ -39,3 +39,6 @@ Récupérer Visual Studio 2017 Professional sur le [site officiel de Microsoft](
 
 ### Azure CLI (command line tool)
 ------------------------------------
+Récupére Azure CLI sur le [site](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+
+![Azure CLI Install website](images/installs/azureCli.jpg)
