@@ -21,6 +21,18 @@ Récupérer NodeJS sur le <a href="https://nodejs.org/en/download/current/" targ
 
 *Suivre le wizard d'installation en utilisant les valeurs par défault.*
 
+Tester ensuite que l'installation s'est bien déroulée et que les outils sont prêts à être utilisés:
+1. Démarrer une invite de command/terminal
+2. Tester les 2 commandes suivantes afin de valider l'installation de NodeJS et de NPM qui est embedded:
+    - ``` bash
+        node -v
+    - Si un numéro de version est retournée => OK
+    - ``` bash 
+        npm -v 
+    - Si un numéro de version est retournée => OK
+    > ![nodejs-checks](images/installs/nodejs-checks.jpg)
+
+
 ### Visual Studio Code (VS Code)
 ---------------------------------
 Récupérer VS Code sur le <a href="https://code.visualstudio.com/download" target="_blank">site officiel de VS Code</a>
@@ -42,3 +54,12 @@ Récupérer Visual Studio 2017 Professional sur le <a href="https://visualstudio
 Récupére Azure CLI sur le <a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest" target="_blank">site</a>
 
 ![Azure CLI Install website](images/installs/azureCli.jpg)
+
+### Angular CLI
+Après avoir bien installé NodeJS, vous pouvez suivre la procédure suivante afin d'installer [Angular CLI](https://cli.angular.io/):
+
+1. Démarrer une invite de command/terminal
+``` bash
+npm install -g @angular/cli@latest
+```
+Angular Cli est maintenant installé "globalement" sur votre machine dans sa dernière version disponible.
