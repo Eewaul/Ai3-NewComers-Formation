@@ -1,4 +1,4 @@
-# [Ai3 Logo](images/ai3.png) Projet d'auto-formation
+# ![Ai3 Logo](images/ai3.png) Projet d'auto-formation
 ## Pré-requis à installer
 ---
 - NodeJS
